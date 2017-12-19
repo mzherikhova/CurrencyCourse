@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyCourse/Model/CurrencyManager.swift"
+            timestampString = "535211763.672475"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getCurrency(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyCourse/View/CurrencyList/CurrencyListViewController.swift"
+            timestampString = "535233073.909995"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewModel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyCourse.CurrencyListViewController.viewModel.didset : weak Swift.ImplicitlyUnwrappedOptional&lt;CurrencyCourse.CurrencyListViewModel&gt;"
+                  moduleName = "CurrencyCourse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/margarita/Desktop/CurrencyCourse/CurrencyCourse/View/CurrencyList/CurrencyListViewController.swift"
+                  timestampString = "535210296.031998"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in CurrencyCourse.CurrencyListViewController.viewModel.didset : weak Swift.ImplicitlyUnwrappedOptional&lt;CurrencyCourse.CurrencyListViewModel&gt;"
+                  moduleName = "CurrencyCourse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/margarita/Desktop/CurrencyCourse/CurrencyCourse/View/CurrencyList/CurrencyListViewController.swift"
+                  timestampString = "535210296.035163"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "14">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
